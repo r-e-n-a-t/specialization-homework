@@ -53,5 +53,11 @@ string[] ThreeSymbolCheck(string[] array)
     return newArray;
 }
 
+string[] array = CreateArray();
+System.Console.Write("Вы ввели => ");
+ShowArray(array);
+System.Console.Write("Новый массив => ");
+ShowArray(ThreeSymbolCheck(array));
+
 
 
