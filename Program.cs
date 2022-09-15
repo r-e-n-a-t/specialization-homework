@@ -33,5 +33,25 @@ string[] CreateArray()
     }
     return array;
 }
+string[] ThreeSymbolCheck(string[] array)
+{   
+    int count = 0;
+    int index = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= 3) count++;
+    }
+    string[] newArray = new string[count];
+    for (int j = 0; j < array.Length; j++)
+    {
+        if (array[j].Length <= 3) 
+        {
+            newArray[index] = array[j];
+            index++;
+        }
+    }
+    return newArray;
+}
+
 
 
