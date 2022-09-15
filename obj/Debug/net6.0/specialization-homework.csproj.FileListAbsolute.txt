@@ -1,0 +1,15 @@
+C:\Users\renat\Desktop\gb\c#\specialization-homework\obj\Debug\net6.0\specialization-homework.csproj.AssemblyReference.cache
+C:\Users\renat\Desktop\gb\c#\specialization-homework\obj\Debug\net6.0\specialization-homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\Desktop\gb\c#\specialization-homework\obj\Debug\net6.0\specialization-homework.AssemblyInfoInputs.cache
+C:\Users\renat\Desktop\gb\c#\specialization-homework\obj\Debug\net6.0\specialization-homework.AssemblyInfo.cs
+C:\Users\renat\Desktop\gb\c#\specialization-homework\obj\Debug\net6.0\specialization-homework.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\gb\c#\specialization-homework\bin\Debug\net6.0\specialization-homework.exe
+C:\Users\renat\Desktop\gb\c#\specialization-homework\bin\Debug\net6.0\specialization-homework.deps.json
+C:\Users\renat\Desktop\gb\c#\specialization-homework\bin\Debug\net6.0\specialization-homework.runtimeconfig.json
+C:\Users\renat\Desktop\gb\c#\specialization-homework\bin\Debug\net6.0\specialization-homework.dll
+C:\Users\renat\Desktop\gb\c#\specialization-homework\bin\Debug\net6.0\specialization-homework.pdb
+C:\Users\renat\Desktop\gb\c#\specialization-homework\obj\Debug\net6.0\specialization-homework.dll
+C:\Users\renat\Desktop\gb\c#\specialization-homework\obj\Debug\net6.0\refint\specialization-homework.dll
+C:\Users\renat\Desktop\gb\c#\specialization-homework\obj\Debug\net6.0\specialization-homework.pdb
+C:\Users\renat\Desktop\gb\c#\specialization-homework\obj\Debug\net6.0\specialization-homework.genruntimeconfig.cache
+C:\Users\renat\Desktop\gb\c#\specialization-homework\obj\Debug\net6.0\ref\specialization-homework.dll

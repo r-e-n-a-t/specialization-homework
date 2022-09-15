@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string Prompt(string message)
+{
+    System.Console.Write(message);
+    string result = Console.ReadLine();
+    return result;
+}
+
+
+
